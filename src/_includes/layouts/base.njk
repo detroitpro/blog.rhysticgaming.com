@@ -8,6 +8,25 @@
   <link rel="stylesheet" href="{{ '/css/style.css' | url }}">
 </head>
 <body>
+  <!-- Card Modal -->
+  <div id="card-modal" class="card-modal" style="display: none;">
+    <div class="card-modal-overlay"></div>
+    <div class="card-modal-content">
+      <button class="card-modal-close" aria-label="Close modal">&times;</button>
+      <div class="card-modal-body">
+        <div class="card-loading">Loading card...</div>
+        <div class="card-display" style="display: none;">
+          <img class="card-image" src="" alt="" />
+          <a class="card-scryfall-link" href="" target="_blank" rel="noopener noreferrer">
+            View on Scryfall →
+          </a>
+        </div>
+        <div class="card-error" style="display: none;">
+          <p>Card not found. Please check the card name.</p>
+        </div>
+      </div>
+    </div>
+  </div>
   <header class="site-header">
     <div class="container">
       <h1 class="site-title">
@@ -31,6 +50,7 @@
       <p>&copy; 2025 {{ metadata.author }}. Did you pay the {1}?</p>
     </div>
   </footer>
+  <script src="{{ '/js/card-modal.js' | url }}"></script>
 </body>
 </html>
 
