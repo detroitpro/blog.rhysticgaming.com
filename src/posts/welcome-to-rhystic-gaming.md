@@ -4,21 +4,29 @@ date: 2025-11-08
 tags: ["Magic: The Gathering", "Introduction"]
 ---
 
-Welcome to **Rhystic Gaming**, a blog dedicated to Magic: The Gathering strategy, deck building, and the community that makes this game so special.
+Welcome to **Rhystic Gaming**—my personal journal for documenting my journey back into competitive Magic: The Gathering.
 
-## What to Expect
+## A Long Hiatus
 
-This blog will cover:
+I've been playing Magic since 1993. Back in the day, I played pretty competitively up until around 1998-1999, then life happened and competitive play fell by the wayside. Now, after all these years, I'm getting back into it.
 
-- **Deck Building**: Analysis of competitive and casual deck archetypes
-- **Strategy**: Deep dives into gameplay decisions and meta analysis
-- **Card Reviews**: Breaking down new cards and their impact on formats
-- **Tournament Reports**: Recaps and lessons learned from competitive play
-- **Community**: Stories and highlights from the Magic community
+A lot of my friends are rediscovering Magic too. Most are playing casually, but some are diving into competitive play, and that's given me the opportunity to revisit something I used to love. I want to see how well I can still do at this game after all this time.
+
+## What This Is (And Isn't)
+
+This blog is primarily **for me**. It's a place to chronicle my experiences, document what I'm learning, and keep track of the ups and downs as I navigate competitive tournament Magic again. I'll be writing about:
+
+- **Tournament Reports**: What happened, what went right, what went wrong
+- **Deck Building & Testing**: What I'm playing, why, and how it's working
+- **Meta Observations**: What I'm seeing in the formats I play
+- **Lessons Learned**: Mistakes, breakthroughs, and things I'm figuring out
+- **The Journey**: The highs, the lows, and everything in between
+
+This isn't really meant to be a resource for other players—though if someone finds value in it, that's great. Mostly, it's my way of keeping track of my own progress and experiences as I work my way back into competitive play.
 
 ## About the Name
 
-The name "Rhystic Gaming" is inspired by the iconic card **Rhystic Study**. Much like the card asks "Did you pay the {1}?", we'll be asking the important questions about Magic strategy and gameplay.
+The name "Rhystic Gaming" comes from **Rhystic Study**, one of those cards that's become iconic in the community. "Did you pay the {1}?" has become a meme, but it's also a reminder to pay attention to the details—something that matters a lot in competitive Magic.
 
-Stay tuned for more content, and remember: always pay the {1}!
+So here we go. Time to see if I still have it, and document the journey along the way.
 
