@@ -50,8 +50,6 @@ We talked it through — I could flip Kefka, draw 5, and still have 1 mana open,
 
 Outcome: Draw
 
----
-
 ## Round 2  
 **Seat 1:** [Blue Farm — Kraum, Ludevic's Opus](https://scryfall.com/card/c16/34/kraum-ludevics-opus) / [Tymna the Weaver](https://scryfall.com/card/c16/48/tymna-the-weaver)  
 **Seat 2:** [Tivit, Seller of Secrets](https://scryfall.com/card/ncc/10/tivit-seller-of-secrets)  
@@ -79,7 +77,6 @@ Seat 4 played [The One Ring](https://scryfall.com/card/ltr/246/the-one-ring). We
 Later, a [Mockingbird](https://scryfall.com/card/blb/61/mockingbird) copied my OBM, killed it, and I used [Volatile Stormdrake](https://scryfall.com/card/mh3/79/volatile-stormdrake) to steal his Mockingbird back — regaining OBM, swinging with an 18/18 Orc army, flipping Kefka, attacking, and drawing 18 cards. It's hard to lose after drawing that many cards.
 
 Outcome: Win
----
 
 ## Round 3  
 **Seat 1:** Me — [Kefka](https://scryfall.com/card/fin/231/kefka-court-mage-kefka-ruler-of-ruin)  
@@ -106,23 +103,21 @@ Blue Farm: setup.
 
 ### Turn 2
 I played The One Ring, drew [Mindbreak Trap](https://scryfall.com/card/zen/57/mindbreak-trap).  
-Kinnan set up further with [Reshape](https://scryfall.com/card/2xm/64/reshape) fetching another Sol Ring.  
+Kinnan set up further with [Reshape](https://scryfall.com/card/2xm/64/reshape) fetching Sol Ring.  
 
 Blue Farm went off with [Ad Nauseam](https://scryfall.com/card/2xm/76/ad-nauseam) to 5 life. Terra countered [Silence](https://scryfall.com/card/m14/35/silence) with [Flare of Duplication](https://scryfall.com/card/mh3/119/flare-of-duplication). Blue Farm cast [An Offer You Can't Refuse](https://scryfall.com/card/fdn/160/an-offer-you-cant-refuse), but Kinnan had [Pact of Negation](https://scryfall.com/card/tsr/77/pact-of-negation) and mana to pay later.  
 
-Terra took their turn, then Blue Farm cast [Final Fortune](https://scryfall.com/card/7ed/182/final-fortune) to take another. They played out, cast [Thassa's Oracle](https://scryfall.com/card/thb/73/thassas-oracle), and put [Demonic Consultation](https://scryfall.com/card/me2/85/demonic-consultation) on the stack. I fired MBT — they conceded.  
+Terra took their turn, then Blue Farm cast [Final Fortune](https://scryfall.com/card/7ed/182/final-fortune) to take another after the Terra players turn, not letting me untap. They played out their entire hand, since I didn't interact during their last push they felt I didn't have interaction. The cast [Thassa's Oracle](https://scryfall.com/card/thb/73/thassas-oracle), and put [Demonic Consultation](https://scryfall.com/card/me2/85/demonic-consultation) on the stack. I fired MBT — they conceded.  
 
-Kinnan had 1 card, Terra 2, me 3 plus The One Ring. I cast Kefka, drew from Ring + Kefka, then used [Underworld Breach](https://scryfall.com/card/thb/161/underworld-breach), [Demonic Tutor](https://scryfall.com/card/cmm/150/demonic-tutor), LED, and finally [Brain Freeze](https://scryfall.com/card/vma/57/brain-freeze) for the win.
+Kinnan had 1 card, Terra 2, me 3 plus The One Ring. I cast Kefka, drew from Ring + Kefka, I used [Demonic Tutor](https://scryfall.com/card/cmm/150/demonic-tutor) to find [Underworld Breach](https://scryfall.com/card/thb/161/underworld-breach), since I already had LED, then replayed DT from the yard to get [Brain Freeze](https://scryfall.com/card/vma/57/brain-freeze) and did then Oracle win.
 
 Outcome: Win
----
 
 ## Round 5  
 Seat order unclear. Seat 3 (Rocco) was the only player who couldn’t draw into Top Cut. We agreed that if any of[Tymna the Weaver](https://scryfall.com/card/c16/48/tymna-the-weaver) / [Kraum, Ludevic's Opus](https://scryfall.com/card/c16/34/kraum-ludevics-opus)e three of us won, we’d concede to Rocco and draw.  
 [Ral, Monsoon Mage // Ral, Leyline Prodigy](https://scryfall.com/card/mh3/247/ral-monsoon-mage-ral-leyline-prodigy) did Ral things and[Tymna the Weaver](https://scryfall.com/card/c16/48/tymna-the-weaver) / [Kraum, Ludevic's Opus](https://scryfall.com/card/c16/34/kraum-ludevics-opus)n.
 
 Outcome: Draw
----
 
 ## Semifinals  
 **Seat 1:** [Rograkh, Son of Rohgahh](https://scryfall.com/card/cmr/197/rograkh-son-of-rohgahh) / [Silas Renn, Seeker Adept](https://scryfall.com/card/c16/43/silas-renn-seeker-adept)  
@@ -130,7 +125,7 @@ Outcome: Draw
 **Seat 3:** [Tymna the Weaver](https://scryfall.com/card/c16/48/tymna-the-weaver) / [Kraum, Ludevic's Opus](https://scryfall.com/card/c16/34/kraum-ludevics-opus)r) / [Kraum, Ludevic's Opus](https://scryfall.com/card/c16/34/kraum-ludevics-opus) (TnK)  
 **Seat 4:** [Stella Lee, Wild Card](https://scryfall.com/card/otc/3/stella-lee-wild-card) / [Kraum, Ludevic's Opus](https://scryfall.com/card/c16/34/kraum-ludevics-opus)tella-lee-wild-card)
 
-*Notes are not 100% correct*
+*Notes are not really 100% correct*
 
 I had to mull to 5. My opening seven: L[Tymna the Weaver](https://scryfall.com/card/c16/48/tymna-the-weaver) / [Kraum, Ludevic's Opus](https://scryfall.com/card/c16/34/kraum-ludevics-opus), Land, [Mystic Remora](https://scryfall.com/card/dmr/59/mystic-remora), [Mental Misstep](https://scryfall.com/card/nph/38/mental-misstep), [An Offer You Can't Refuse](https://scryfall.com/card/fdn/160/an-offer-you-cant-refuse), [Tainted Pact](https://scryfall.com/card/ody/164/tainted-pact), [Wishclaw Talisman](https://scryfall.com/card/fdn/617/wishclaw-talisman). I kept Land, Land, Fish, Mental Misstep, Offer.
 
@@ -152,7 +147,6 @@ I needed to take better notes. This game was a lot, but in the end, everyone fou
 
 Outcome: Win
 
-...
 
 ## Finals  
 **Seat 1:** [Rograkh, Son of Rohgahh](https://scryfall.com/card/cmr/197/rograkh-son-of-rohgahh) / [Silas Renn, Seeker Adept](https://scryfall.com/card/c16/43/silas-renn-seeker-adept)  
@@ -161,8 +155,6 @@ Outcome: Win
 **Seat 4:** Me — [Kefka](https://scryfall.com/card/fin/231/kefka-court-mage-kefka-ruler-of-ruin)
 
 Seat 1 played solitaire.
-
----
 
 ## Reflections
 
