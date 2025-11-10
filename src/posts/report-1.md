@@ -167,7 +167,7 @@ Seat 1 played solitaire.
 
 I took forth place, got a dual land, traded it for 2 reserved list cards and a foil Kefka.
 
-![Prize]({{ '/images/posts/tournament-report-1/prize.png' | url }})
+![Prize]({{ '/images/posts/report-1/prize.png' | url }})
 
 
 ## Reflections
@@ -188,3 +188,12 @@ I took forth place, got a dual land, traded it for 2 reserved list cards and a f
 ### Lessons Learned
 - [Deflecting Swat](https://scryfall.com/card/cmm/214/deflecting-swat) can target a spell to itself; when Swat resolves first, the spell fizzles.  
 - [The Cabbage Merchant](https://scryfall.com/card/tle/134/the-cabbage-merchant) is going to be interesting.
+
+
+### Side Note
+
+JUDGE!!!!
+
+This game had a 17min time extention for a judge call, I saw the play that causes the call, but I don't have all the details of this game.....
+
+![Judge]({{ '/images/posts/report-1/judge.png' | url }})
