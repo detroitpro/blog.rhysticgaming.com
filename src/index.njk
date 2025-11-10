@@ -1,0 +1,33 @@
+---
+layout: base.njk
+title: Home
+---
+
+<div class="home">
+  <section class="hero">
+    <h2>Welcome to Rhystic Gaming</h2>
+    <p class="hero-subtitle">A Magic: The Gathering blog exploring strategy, deck building, and the game we love.</p>
+    <p class="hero-quote">"Did you pay the {1}?"</p>
+  </section>
+
+  <section class="recent-posts">
+    <h2>Recent Posts</h2>
+    <ul class="post-list">
+      {% set recentPosts = collections.posts | reverse %}
+      {% for post in recentPosts %}
+        {% if loop.index0 < 5 %}
+        <li class="post-item">
+          <a href="{{ post.url }}" class="post-link">
+            <h3 class="post-link-title">{{ post.data.title }}</h3>
+            <time class="post-link-date" datetime="{{ post.date | date('%Y-%m-%d') }}">
+              {{ post.date | dateDisplay }}
+            </time>
+          </a>
+        </li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+    <a href="/posts/" class="view-all-link">View All Posts →</a>
+  </section>
+</div>
+

@@ -1,0 +1,28 @@
+---
+layout: base.njk
+title: All Posts
+permalink: /posts/index.html
+---
+
+<h1>All Posts</h1>
+
+<ul class="post-list">
+  {% for post in collections.posts | reverse %}
+  <li class="post-item">
+    <a href="{{ post.url }}" class="post-link">
+      <h3 class="post-link-title">{{ post.data.title }}</h3>
+      <time class="post-link-date" datetime="{{ post.date | date('%Y-%m-%d') }}">
+        {{ post.date | dateDisplay }}
+      </time>
+      {% if post.data.tags %}
+      <div class="post-link-tags">
+        {% for tag in post.data.tags %}
+        <span class="tag">{{ tag }}</span>
+        {% endfor %}
+      </div>
+      {% endif %}
+    </a>
+  </li>
+  {% endfor %}
+</ul>
+
