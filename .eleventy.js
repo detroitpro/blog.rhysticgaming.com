@@ -3,6 +3,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/css");
   eleventyConfig.addPassthroughCopy("src/images");
   eleventyConfig.addPassthroughCopy("src/js");
+  eleventyConfig.addPassthroughCopy("src/CNAME");
 
   // Add a filter for date formatting (display)
   eleventyConfig.addFilter("dateDisplay", (date) => {
@@ -27,9 +28,10 @@ module.exports = function(eleventyConfig) {
     return array.slice(0, limit);
   });
 
-  // Use pathPrefix for GitHub Pages (production), but not for local development
-  const isProduction = process.env.NODE_ENV === "production" || process.env.CI === "true";
-  const pathPrefix = isProduction ? "/blog.rhysticgaming.com/" : "/";
+  // Use pathPrefix only if not using custom domain (GitHub Pages subdirectory)
+  // With custom domain (CNAME), use root path
+  const useSubdirectory = process.env.USE_SUBDIRECTORY === "true";
+  const pathPrefix = useSubdirectory ? "/blog.rhysticgaming.com/" : "/";
 
   return {
     pathPrefix: pathPrefix,
