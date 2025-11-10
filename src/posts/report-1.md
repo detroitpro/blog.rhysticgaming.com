@@ -1,7 +1,7 @@
 ---
 title: "Tournament Report: MBG Monthly"
 date: 2025-11-09
-tags: ["Magic: The Gathering", "Introduction"]
+tags: ["Magic: The Gathering", "Report"]
 ---
 
 **Event:** MBG Monthly  
