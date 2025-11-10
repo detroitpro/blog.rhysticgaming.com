@@ -318,6 +318,30 @@ body {
   color: var(--text-secondary);
 }
 
+.post-content img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin: var(--spacing-md) 0;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.post-content figure {
+  margin: var(--spacing-lg) 0;
+  text-align: center;
+}
+
+.post-content figure img {
+  margin: 0 auto;
+}
+
+.post-content figcaption {
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+  font-style: italic;
+  margin-top: var(--spacing-xs);
+}
+
 /* Footer */
 .site-footer {
   background-color: var(--deep-blue);

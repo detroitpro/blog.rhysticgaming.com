@@ -17,6 +17,13 @@ Stopped by Upkeep to pick up sleeves and a [Vexing Bauble](https://scryfall.com/
 
 This was the first cEDH event where I had a decklist, sleeved deck, and registration completed the night before — which made the next day much smoother.
 
+<!-- Example of adding an image (uncomment and add your image):
+<figure>
+  <img src="{{ '/images/posts/tournament-report-1/decklist.png' | url }}" alt="My Kefka decklist">
+  <figcaption>My Kefka decklist for the tournament</figcaption>
+</figure>
+-->
+
 ---
 
 ## Event Day
@@ -155,6 +162,13 @@ Outcome: Win
 **Seat 4:** Me — [Kefka](https://scryfall.com/card/fin/231/kefka-court-mage-kefka-ruler-of-ruin)
 
 Seat 1 played solitaire.
+
+## Outcome
+
+I took forth place, got a dual land, traded it for 2 reserved list cards and a foil Kefka.
+
+![Prize]({{ '/images/posts/tournament-report-1/prize.png' | url }})
+
 
 ## Reflections
 
