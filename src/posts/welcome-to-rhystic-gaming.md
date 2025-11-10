@@ -1,6 +1,6 @@
 ---
 title: "Welcome to Rhystic Gaming"
-date: 2025-01-27
+date: 2025-11-08
 tags: ["Magic: The Gathering", "Introduction"]
 ---
 

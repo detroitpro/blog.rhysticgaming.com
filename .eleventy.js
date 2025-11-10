@@ -27,7 +27,12 @@ module.exports = function(eleventyConfig) {
     return array.slice(0, limit);
   });
 
+  // Use pathPrefix for GitHub Pages (production), but not for local development
+  const isProduction = process.env.NODE_ENV === "production" || process.env.CI === "true";
+  const pathPrefix = isProduction ? "/blog.rhysticgaming.com/" : "/";
+
   return {
+    pathPrefix: pathPrefix,
     dir: {
       input: "src",
       output: "_site",
