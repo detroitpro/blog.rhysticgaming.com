@@ -42,6 +42,7 @@
   // Fetch card from Scryfall API
   async function fetchCard(cardName) {
     const encodedName = encodeURIComponent(cardName);
+    console.log(encodedName);
     const url = `https://api.scryfall.com/cards/named?exact=${encodedName}`;
     
     try {
