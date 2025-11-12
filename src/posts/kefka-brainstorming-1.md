@@ -2,6 +2,7 @@
 title: "Revewing Post Event"
 date: 2025-11-10
 tags: ["Magic: The Gathering", "Brainstorm"]
+draft: true
 ---
 
 ## Getting Started
