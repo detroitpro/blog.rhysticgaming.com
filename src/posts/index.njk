@@ -7,7 +7,7 @@ permalink: /posts/index.html
 <h1>All Posts</h1>
 
 <ul class="post-list">
-  {% for post in collections.posts | reverse %}
+  {% for post in collections.publishedPosts | reverse %}
   <li class="post-item">
     <a href="{{ post.url }}" class="post-link">
       <h3 class="post-link-title">{{ post.data.title }}</h3>

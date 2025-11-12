@@ -12,7 +12,7 @@ title: Home
   <section class="recent-posts">
     <h2>Recent Posts</h2>
     <ul class="post-list">
-      {% set recentPosts = collections.posts | reverse %}
+      {% set recentPosts = collections.publishedPosts | reverse %}
       {% for post in recentPosts %}
         {% if loop.index0 < 5 %}
         <li class="post-item">

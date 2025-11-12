@@ -28,6 +28,14 @@ module.exports = function(eleventyConfig) {
     return array.slice(0, limit);
   });
 
+  // Filter out draft posts from collections
+  eleventyConfig.addCollection("publishedPosts", function(collectionApi) {
+    return collectionApi.getFilteredByTag("posts").filter(function(item) {
+      // Exclude posts with draft: true
+      return !item.data.draft;
+    });
+  });
+
   // Transform to convert [[Card Name]] syntax to clickable card links
   eleventyConfig.addTransform("cardLinks", function(content, outputPath) {
     // Only process HTML files (posts)
