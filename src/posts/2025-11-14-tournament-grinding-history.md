@@ -50,7 +50,7 @@ I was on the road with my "team" known as "Team Bald Dummy". Side note: it's wei
 
 I was sixteen or seventeen, driving to **Ottawa**, **Downriver**, **Detroit**, **Columbus**, and **Lansing**—anywhere there was a big event. We’d play Border Wars (U.S. vs. Canada), Type 1 tournaments, and anything else that looked serious.  
 
-I never spiked any of those events, I top 8ed a few - like this one: (PTQ Report - Detroit)[https://www.classicdojo.org/t983/ptq.980920tco.txt?fbclid=IwY2xjawODC3lleHRuA2FlbQIxMQBzcnRjBmFwcF9pZAEwAAEeRU8F_HxCk83a32hJm724AmtKK1nx48kIzh0TcQ_ghFOSFPVSWuFZW4-WkME_aem_V1jDuUuK61WamU7jerKIPQ] My friends did better than I did; some even qualified for the **Pro Tour** in places like New York, Los Angeles, and maybe even Italy or Japan. 
+I never spiked any of those events, I top 8ed a few - like this one: [PTQ Report - Detroit](https://www.classicdojo.org/t983/ptq.980920tco.txt?fbclid=IwY2xjawODC3lleHRuA2FlbQIxMQBzcnRjBmFwcF9pZAEwAAEeRU8F_HxCk83a32hJm724AmtKK1nx48kIzh0TcQ_ghFOSFPVSWuFZW4-WkME_aem_V1jDuUuK61WamU7jerKIPQ) My friends did better than I did; some even qualified for the **Pro Tour** in places like New York, Los Angeles, and maybe even Italy or Japan. 
 
 ### What I won
 These events where top heavy (PT invite) and I didn't win anything really.
