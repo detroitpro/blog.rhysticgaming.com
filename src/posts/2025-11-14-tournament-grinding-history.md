@@ -36,6 +36,8 @@ I think I got a [[Juzam Djinn]] and a [[Mox Ruby]] playing for ante too.
 
 After playing out of the Castle for a few years; I evently got asked NOT to complete in other stores weekly events. 
 
+{% moxfield "9rg6q9rPnlk6lzYEPZlBaNQ" %}
+
 RIW was the place for high level play, but the Castle was a close second. 
 
 ---
@@ -75,6 +77,6 @@ After college, life pulled me away from the game for a while. I didn’t play mu
 ## The Modern Chapter
 
 
-Now I’m back at it again. Three events in, and I’ve already made the **finals** of one event. My life is in a much different place now. Older kids, stable work, and time.....I'm interested to see how the next year goes. 
+Now I'm back at it again. Three events in, and I've already made the **finals** of one event. My life is in a much different place now. Older kids, stable work, and time.....I'm interested to see how the next year goes. 
 
 My play group is focused on cEDH, which I've learned to like - I think of it as a cross between Magic and Poker.

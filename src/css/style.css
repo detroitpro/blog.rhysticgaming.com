@@ -469,6 +469,23 @@ body {
   font-style: italic;
 }
 
+/* Moxfield Deck Embeds */
+.moxfield-deck-embed {
+  margin: var(--spacing-lg) 0;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  background-color: var(--bg-secondary);
+  border: 1px solid var(--border-color);
+}
+
+.moxfield-iframe {
+  display: block;
+  border: none;
+  min-height: 400px;
+  background-color: var(--bg-secondary);
+}
+
 /* Footer */
 .site-footer {
   background-color: var(--deep-blue);

@@ -36,6 +36,32 @@ module.exports = function(eleventyConfig) {
     });
   });
 
+  // Shortcode for embedding Moxfield deck lists
+  // Usage: {% moxfield "deck-id" %} or {% moxfield "deck-id" "sortBy=manaCost&hideTotal=true" %}
+  eleventyConfig.addShortcode("moxfield", function(deckId, params = "") {
+    // Generate unique ID for this iframe instance
+    const frameId = `moxfield-frame-${Date.now()}-${Math.random().toString(36).substr(2, 9)}`;
+    
+    // Build the embed URL
+    let embedUrl = `https://moxfield.com/embed/${deckId}`;
+    if (params) {
+      embedUrl += `?${params}`;
+    }
+    
+    // Return the iframe HTML with auto-sizing support
+    return `<div class="moxfield-deck-embed">
+      <iframe 
+        src="${embedUrl}" 
+        id="${frameId}" 
+        frameBorder="0" 
+        width="100%" 
+        class="moxfield-iframe"
+        onload="moxfieldOnLoad(event)"
+        loading="lazy">
+      </iframe>
+    </div>`;
+  });
+
   // Transform to convert [[Card Name]] syntax to clickable card links
   eleventyConfig.addTransform("cardLinks", function(content, outputPath) {
     // Only process HTML files (posts)
