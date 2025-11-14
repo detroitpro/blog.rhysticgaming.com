@@ -6,36 +6,6 @@
   <title>{% if title %}{{ title }} | {% endif %}{{ metadata.title }}</title>
   <meta name="description" content="{{ description or metadata.description }}">
   <link rel="stylesheet" href="{{ '/css/style.css' | url }}">
-  <!-- Moxfield deck embed auto-sizing script -->
-  <script>
-    function moxfieldOnMessage(e) {
-      // Only process messages from Moxfield domain for security
-      if (e.origin !== 'https://www.moxfield.com' && e.origin !== 'https://moxfield.com') {
-        return;
-      }
-      const t = e.data;
-      if ("object" == typeof t && "moxfield" === t.type) {
-        const frameElement = document.getElementById(t.id);
-        if (frameElement) {
-          frameElement.style.height = t.data + "px";
-        }
-      }
-    }
-    function moxfieldOnLoad(e) {
-      if (e.target && e.target.contentWindow) {
-        try {
-          e.target.contentWindow.postMessage({
-            type: "moxfield",
-            data: e.target.id
-          }, "*");
-        } catch (err) {
-          // Silently handle cross-origin errors (expected with iframes)
-          // These are normal and don't affect functionality
-        }
-      }
-    }
-    window.addEventListener("message", moxfieldOnMessage);
-  </script>
 </head>
 <body>
   <!-- Card Modal -->
@@ -81,6 +51,7 @@
     </div>
   </footer>
   <script src="{{ '/js/card-modal.js' | url }}"></script>
+  <script src="{{ '/js/decklist.js' | url }}"></script>
 </body>
 </html>
 

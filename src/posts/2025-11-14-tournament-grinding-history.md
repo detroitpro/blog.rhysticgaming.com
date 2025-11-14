@@ -36,9 +36,37 @@ I think I got a [[Juzam Djinn]] and a [[Mox Ruby]] playing for ante too.
 
 After playing out of the Castle for a few years; I evently got asked NOT to complete in other stores weekly events. 
 
-{% moxfield "9rg6q9rPnlk6lzYEPZlBaNQ" %}
+RIW was the place for high level play, but the Castle was a close second.
 
-RIW was the place for high level play, but the Castle was a close second. 
+Here's an example decklist from those days:
+
+{% decklist "Vintage Control|A classic control deck from the early days|Vintage, Control, Old School" %}
+2 City of Brass (CHR) 112
+2 Counterspell (TMP) 57
+4 Dark Ritual (3ED) 99
+2 Disenchant (ICE) 20
+2 Fellwar Stone (TDC) 318
+4 Force of Will (DMR) 284
+4 Hymn to Tourach (ATH) 23
+4 Hypnotic Specter (3ED) 115
+4 Impulse (DMU) 55
+3 Island (3ED) 295
+1 Jayemdae Tome (3ED) 258
+2 Juzám Djinn (ARN) 29
+2 Mana Drain (OTP) 11
+1 Mind Twist (3ED) 117
+2 Plains (3ED) 292
+1 Power Sink (4ED) 93
+1 Recall (CHR) 24
+3 Scrubland (3ED) 286
+2 Serra Angel (3ED) 40
+1 Sol Ring (3ED) 274
+2 Swamp (3ED) 298
+4 Swords to Plowshares (ICE) 54
+3 Tundra (3ED) 289
+3 Underground Sea (3ED) 290
+1 Zuran Orb (MH2) 300
+{% enddecklist %} 
 
 ---
 
