@@ -57,7 +57,9 @@ module.exports = function(eleventyConfig) {
         width="100%" 
         class="moxfield-iframe"
         onload="moxfieldOnLoad(event)"
-        loading="lazy">
+        loading="lazy"
+        allow="clipboard-read; clipboard-write"
+        title="Moxfield Deck List">
       </iframe>
     </div>`;
   });

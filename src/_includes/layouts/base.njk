@@ -9,17 +9,30 @@
   <!-- Moxfield deck embed auto-sizing script -->
   <script>
     function moxfieldOnMessage(e) {
+      // Only process messages from Moxfield domain for security
+      if (e.origin !== 'https://www.moxfield.com' && e.origin !== 'https://moxfield.com') {
+        return;
+      }
       const t = e.data;
       if ("object" == typeof t && "moxfield" === t.type) {
-        const e = document.getElementById(t.id);
-        e && (e.style.height = t.data + "px");
+        const frameElement = document.getElementById(t.id);
+        if (frameElement) {
+          frameElement.style.height = t.data + "px";
+        }
       }
     }
     function moxfieldOnLoad(e) {
-      e.target && e.target.contentWindow && e.target.contentWindow.postMessage({
-        type: "moxfield",
-        data: e.target.id
-      }, "*");
+      if (e.target && e.target.contentWindow) {
+        try {
+          e.target.contentWindow.postMessage({
+            type: "moxfield",
+            data: e.target.id
+          }, "*");
+        } catch (err) {
+          // Silently handle cross-origin errors (expected with iframes)
+          // These are normal and don't affect functionality
+        }
+      }
     }
     window.addEventListener("message", moxfieldOnMessage);
   </script>
