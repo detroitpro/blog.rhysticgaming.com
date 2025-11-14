@@ -98,7 +98,7 @@ I think the first event had ~70 players, the second had a much smaller turn out,
 
 ## The Hiatus and Return
 
-After college, life pulled me away from the game for a while. I didn’t play much until around **2010**, I got back into the game via a short stint woring for TCG Player. After that contract ended I keep playing, not that serious but I did top-8 another PTQ.
+After college, life pulled me away from the game for a while. I didn’t play much until around **2010**, I got back into the game via a short stint working for TCG Player. After that contract ended I keep playing, not that serious but I did top-8 another PTQ.
 
 ---
 
